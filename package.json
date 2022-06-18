@@ -1,0 +1,26 @@
+{
+  "name": "try-bootstrap",
+  "version": "1.0.0",
+  "description": "Implementing the Figma template portfolio using bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ney2/Try-Bootstrap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ney2/Try-Bootstrap/issues"
+  },
+  "homepage": "https://github.com/Ney2/Try-Bootstrap#readme",
+  "devDependencies": {
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
